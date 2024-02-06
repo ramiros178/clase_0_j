@@ -1,0 +1,5 @@
+git init = Inicializa un repositorio o lo reinicia. (OJO!!!)
+git status = Obtengo información del repositorio.
+git add [archivos] = Agrego archivos al area de seguimiento. (standing area)
+git pull = archivos del local al remoto
+git push = archivos del remoto al local.
